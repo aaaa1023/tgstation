@@ -2788,6 +2788,7 @@
 #include "code\modules\mob\living\basic\basic_defense.dm"
 #include "code\modules\mob\living\basic\health_adjustment.dm"
 #include "code\modules\mob\living\basic\farm_animals\cows.dm"
+#include "code\modules\mob\living\basic\farm_animals\sheep.dm"
 #include "code\modules\mob\living\basic\ruin_defender\stickman.dm"
 #include "code\modules\mob\living\basic\vermin\cockroach.dm"
 #include "code\modules\mob\living\brain\brain.dm"
